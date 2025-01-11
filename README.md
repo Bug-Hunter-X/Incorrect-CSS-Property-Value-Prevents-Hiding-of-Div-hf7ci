@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to the use of CSS properties to hide HTML elements. The bug occurs due to an incorrect value being assigned to the `display` style property, leading to unexpected behavior. The solution provides the correct way to set the display property to hide the div element.
